@@ -1,0 +1,41 @@
+<infography>
+	<personal_information>
+		<name> Luis </name>
+		<surname> Mourelle </surname>
+		<surname> Abelenda </surname>
+	</personal_information>
+	<qualities>
+		<positive_qualities> 
+			<positive> ambitious </positive>
+			<positive> learn easily </positive>
+			<positive> good at teamwork </positive>
+		</positive_qualities>
+		<negative_qualities> 
+				<negative> strong-headed </negative>
+				<negative> too competitive </negative>
+				<negative> high ego </negative>
+		</negative_qualities>
+	</qualities>
+	<tastes>
+		<favourite_serie> riverdale
+			<explanation> Riverdale is my favorite series which plot is based on the investigation of a murder. </explanation>
+		</favourite_serie>
+		<favourite_singer> Arce
+			<explanation> My favorite singer is Arce, a Galician rapper. </explanation>
+		</favourite_singer>
+	</tastes>
+	<hobbies> 
+		<hobbie> playing videogames </hobbie>
+		<hobbie> going to the gym </hobbie>
+	</hobbies>
+	<skills>
+		<english_level> I have B1 level in Trinity exam. </english_level>
+		<computer_science_background> I only did the most basic things about computer science in 2nd year of Bachillerato. </computer_science_background>
+	</skills>
+	<curiosities>
+		<last_book_I_read> Honestly, I don't remember the last book I read. </last_book_I_read>
+		<dream_to_accomplish> One of my dreams is creating my own factory. </dream_to_accomplish>
+	</curiosities>
+</infography>
+
+

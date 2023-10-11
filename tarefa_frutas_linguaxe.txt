@@ -1,0 +1,26 @@
+<company xmlns="http://www.noemi.org/ns/all" xmlns fr:="http://www.noemi.org/ns/fruits" xmlns fr:="http://www.ns/colours"
+	<URI>Uniform Resource Identifier</URI>
+	<URL>Uniform Resource Locator>/URL>
+	<URN>Uniform Resource Name</URN>
+	<IANA>Internet Assigned Numbers Authority</IANA>
+	<HTTP>HyperText Transfer Protocol</HTTP>
+	<RFC>Request For Comments</RFC>
+	<fruits type="delicious">
+		<apple>
+			<class>Cosmic</class>
+		</apple>
+		<melon>
+		</melon>
+		<orange xmlns="http://www.noemi.org/ns/fruits">
+		</orange>
+	</fruits>
+	<products>
+		<table>
+			<colours>
+				<pink/>
+				<brown/>
+				<orange xmlns="https://www.noemi.org/ns/colours"></orange>
+			</colours>
+		</table>
+	</products>
+</company>

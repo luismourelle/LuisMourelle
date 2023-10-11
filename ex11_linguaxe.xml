@@ -1,0 +1,26 @@
+<dats> xmlns:twitter="https://twitter.com" xmlns:twitter="https://Facebook.com" 
+	<name> Helen Smith </name>
+    <profession> Software Engineer </profession>
+    <age> 31 </age>
+    <address>
+        <city> New York </city>
+        <postalCode> 64780 </postalCode>
+        <Country> USA </Country>
+    </address>
+    <languages> 
+		<language> Java</language>
+		<language> Node.js </language>
+		<language> JavaScript </language>
+		<language> JSON </language>
+	</languages>
+    <socialProfiles>
+        <twitter:socialprofile>
+			<name> Twitter </name>
+            <link> https://twitter.com </name>
+		</socialprofile>
+        <Facebook:socialprofile>
+            <name> Facebook </name>
+            <link> https://www.facebook.com <link>
+		</socialprofile>
+	</socialProfiles>
+</dats>

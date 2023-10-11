@@ -1,0 +1,41 @@
+{
+	"books": [{
+		"title": "Cien Anos de Soledad",
+		"author": "Gabriel Garcia Marquez",
+		"ISBN": 978-3-16-148410-0,
+		"publishedDate": 1967,
+        "price": 20.00,
+        "categories": "novel",
+        "availability": "In Stock",
+	},
+
+    {
+        "title": "El Hobbit",
+		"author": "J.R.R. Tolkien",
+		"ISBN": 978-0-261-10295-2,
+		"publishedDate": 1937,
+        "price": 15.99,
+        "categories": "Fantasy",
+        "availability": "Out of Stock",
+	},
+
+    {
+        "title": "1984",
+		"author": "George Orwell",
+		"ISBN": 978-0-452-28423-4,
+		"publishedDate": 1949,
+        "price": 12.50,
+        "categories": "Distopia",
+        "availability": "In Stock",
+	}]
+
+    {
+        "Bookscategories": [
+            "novel",
+            "fantasy",
+            "distopia",
+            "thriller",
+        ]
+    }
+
+}

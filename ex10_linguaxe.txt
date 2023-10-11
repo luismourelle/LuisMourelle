@@ -1,0 +1,16 @@
+<bookshop xmlns="http://www.bookshopaco.com/espazosdenomes/"
+xmlns:bk="http://www.bookshopaco.com/espazosdenomes/bookshop/"
+xmlns:emp="http://www.bookshopaco.com/espazosdenomes/employee/">
+
+	<bk:book>
+		<bk:title>Learning XML</title>
+		<bk:description>This second edition of the bestselling Learning XML provides web 
+		developers with a concise but grounded understanding of XML</description>
+	</bk:book>
+	<emp:employee>
+		<emp:name>Erik T. Ray</name> 
+		<emp:title>Mr. </title>
+		<emp:publications>
+		</emp:publications>
+	</emp:employee>
+</bookshop>
